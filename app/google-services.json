@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "815509450301",
+    "firebase_url": "https://friendschat-911a8.firebaseio.com",
+    "project_id": "friendschat-911a8",
+    "storage_bucket": "friendschat-911a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815509450301:android:929ff672f1047a11",
+        "android_client_info": {
+          "package_name": "com.mohamdsobhy.doctorchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815509450301-ff6o1ilt60lho9k79m8k0ov6j7jsojt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsviFZT7_JU2M1xoG4Jqc12TVSal1SAhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
